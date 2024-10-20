@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Data Visualizer and AutoML",
+      "imageSrc": "projects/Data VS.png",
+      "description": "A Streamlit web app for data visualization, preprocessing, and automated predictive modeling with performance metrics and model downloads.",
+      "skills": ["Python", "AutoML", "Streamlit"],
+      "demo": "https://nimish1402-datavisualizer-and-automl-app-mlvrhd.streamlit.app/",
+      "source": "https://github.com/nimish1402/DataVisualizer-and-autoML"
+    },
+    {
+      "title": "Language Detetction Web App",
+      "imageSrc": "projects/Language detection.png",
+      "description": "A Flask web app for language detection using a machine learning model, deployed with FastAPI and Docker for efficient API handling and containerized deployment.",
+      "skills": ["Python", "FastAPI", "Docker"],
+      "demo": "https://github.com/nimish1402/Language-detection-Web-App",
+      "source": "https://github.com/nimish1402/Language-detection-Web-App"
+    },
+    {
+      "title": "Abusive Language Detection",
+      "imageSrc": "projects/Abusive language detection.png",
+      "description": "Machine learning model for abusive language detection, trained on a Twitter dataset, with comparison of traditional models and deep learning approaches, highlighting LSTM for improved performance.",
+      "skills": ["LSTM", "XGB","Python"],
+      "demo": "https://github.com/nimish1402/Abusive-Language-Detection",
+      "source": "https://github.com/nimish1402/Abusive-Language-Detection"
+    }
+  ]
